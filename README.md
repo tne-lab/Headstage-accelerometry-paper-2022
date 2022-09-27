@@ -1,5 +1,6 @@
 ## Quantifying defensive behavior and threat response through integrated headstage accelerometry
 Maintained by: Rebecca Younk
+Data for Accelerometry_freezing_barpress_example available upon request. Main and supplemental plots can still be produced.
 
 ## Code:
 # Accelerometry_Extraction_Continuous
